@@ -19,11 +19,11 @@ Status: Em desenvolvimento.
 <h2 align="center">Interfaces</h2>
 
 <div align="center">
-<img width="360px" height = "640px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/0_login.jpg" alt="cover" />
-<img width="360px" height = "640px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/1_criar_usuario.jpg" alt="cover" />
-<img width="360px" height = "640px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/2_pagina_inicial.jpg" alt="cover" />
-<img width="360px" height = "640px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/3_convite_recebido.jpg" alt="cover" />
-<img width="360px" height = "640px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/4_convite_aceito.jpg" alt="cover" />
+<img width="180px" height = "320px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/0_login.jpg" alt="cover" />
+<img width="180px" height = "320px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/1_criar_usuario.jpg" alt="cover" />
+<img width="180px" height = "320px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/2_pagina_inicial.jpg" alt="cover" />
+<img width="180px" height = "320px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/3_convite_recebido.jpg" alt="cover" />
+<img width="180px" height = "320px" src="https://github.com/LucasVerdam/ExpInApp/blob/main/prints_pagina/4_convite_aceito.jpg" alt="cover" />
 </div>
 
 
